@@ -1,7 +1,8 @@
 ## About me
   
 #### Hello!  
-My pronouns are she/her. Im an illustrator and **graphic designer** who is currently learning about **web dev**. I'm specially interested in frontend.  
+My pronouns are **she/her**.  
+Im an illustrator and graphic designer who is currently learning about **web dev**. I'm specially interested in frontend.  
   
 ## Where you can find me?
 • [Linkedin](https://www.linkedin.com/in/marina-fueyo-padilla-406bb5200/)  
