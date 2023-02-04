@@ -2,7 +2,7 @@
   
 #### Hello!  
 My pronouns are **she/her**.  
-Im a **self-taught illustrator**. I also hold a graduate in **Graphic Design**.  
+Im a self-taught **digital illustrator**. I also hold a graduate in **Graphic Design**.  
 I'm currently learning about **web dev**. I'm specially interested in frontend.  
   
 ## Where you can find me?
