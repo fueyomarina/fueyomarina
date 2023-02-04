@@ -1,4 +1,4 @@
-## About!
+## About me
   
 #### Hello!  
 My pronouns are she/her. Im an illustrator and **graphic designer** who is currently learning about **web dev**. I'm specially interested in frontend.  
