@@ -14,9 +14,9 @@ I'm currently learning about **web dev**. I'm specially interested in frontend.
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![]()
-![]()
-![]()
+  
+![](https://github.com/fueyomarina/fueyomarina/blob/main/yo.png)
+
 <!--
 **fueyomarina/fueyomarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
