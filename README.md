@@ -5,7 +5,9 @@ My pronouns are **she/her**.
 Im a self-taught **digital illustrator**. I also hold a graduate in **Graphic Design**.  
 I'm currently learning about **web dev**. I'm specially interested in frontend.  
   
-![](https://github.com/fueyomarina/fueyomarina/blob/main/yo.png)  
+<p align="center">
+    <img src="https://github.com/fueyomarina/fueyomarina/blob/main/yo.png">
+<p>
   
 ## Where you can find me?
 • [Linkedin](https://www.linkedin.com/in/marina-fueyo-padilla-406bb5200/)  
