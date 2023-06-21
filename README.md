@@ -10,7 +10,7 @@ I'm currently learning about **web dev**. I'm specially interested in frontend.
   
 ## Where you can find me?
 • [Linkedin](https://www.linkedin.com/in/marina-fueyo-padilla-406bb5200/)  
-• [Behance](behance.net/fueyomarina)  
+• [Behance](https://www.behance.net/fueyomarina)  
 • [Twitter](https://twitter.com/fueyomarina)  
   
 ## Languages and tools:
